@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Profili usa e getta: posta temporanea (mail.tm), compilazione moduli, consigli di sicurezza. I profili restano sul tuo dispositivo."
+  },
+  "cmdFill": {
+    "message": "Compila il modulo con il profilo attivo"
+  }
+}

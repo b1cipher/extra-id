@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Perfis descartáveis: e-mail temporário (mail.tm), preenchimento de formulários, dicas de segurança. Perfis ficam no seu dispositivo."
+  },
+  "cmdFill": {
+    "message": "Preencher o formulário com o perfil ativo"
+  }
+}

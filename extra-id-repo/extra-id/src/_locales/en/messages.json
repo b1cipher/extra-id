@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Disposable sign-up profiles: temporary mail (mail.tm), form autofill, security tips. Profiles are stored on your device."
+  },
+  "cmdFill": {
+    "message": "Fill the form with the active profile"
+  }
+}

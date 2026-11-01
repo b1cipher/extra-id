@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Profils jetables : mail temporaire (mail.tm), remplissage de formulaires, conseils de sécurité. Stockés sur votre appareil."
+  },
+  "cmdFill": {
+    "message": "Remplir le formulaire avec le profil actif"
+  }
+}

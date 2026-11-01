@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Profil sekali pakai: email sementara (mail.tm), isi otomatis formulir, tips keamanan. Profil disimpan di perangkat Anda."
+  },
+  "cmdFill": {
+    "message": "Isi formulir dengan profil aktif"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Wegwerf-Profile: temporäre Mail (mail.tm), Formular-Autofill, Sicherheitstipps. Profile werden auf deinem Gerät gespeichert."
+  },
+  "cmdFill": {
+    "message": "Formular mit dem aktiven Profil ausfüllen"
+  }
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="auto">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Extra ID</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="shell">
+    <header>
+      <div class="brand"><img class="brand-mark" src="icons/icon48.png" alt=""><span>Extra ID</span></div>
+      <div id="chip" class="who"></div>
+    </header>
+    <nav id="tabs" aria-label="Sections">
+      <button data-tab="personas" type="button"></button>
+      <button data-tab="mail" type="button"></button>
+      <button data-tab="settings" type="button"></button>
+      <button data-tab="info" type="button"></button>
+    </nav>
+    <main id="view"></main>
+    <footer id="footer"></footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>

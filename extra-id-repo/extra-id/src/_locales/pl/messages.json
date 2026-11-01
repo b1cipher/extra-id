@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Jednorazowe profile: poczta tymczasowa (mail.tm), autouzupełnianie formularzy, porady. Profile są na Twoim urządzeniu."
+  },
+  "cmdFill": {
+    "message": "Wypełnij formularz aktywnym profilem"
+  }
+}

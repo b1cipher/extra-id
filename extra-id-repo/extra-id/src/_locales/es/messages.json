@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Extra ID"
+  },
+  "extDesc": {
+    "message": "Perfiles desechables: correo temporal (mail.tm), autorrelleno y consejos de seguridad. Los perfiles se guardan en tu dispositivo."
+  },
+  "cmdFill": {
+    "message": "Rellenar el formulario con el perfil activo"
+  }
+}
