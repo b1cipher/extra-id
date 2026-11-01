@@ -2,7 +2,7 @@
 
 Browser extension (Chrome / Firefox, Manifest V3): disposable profiles, temporary mail, form autofill.
 
-- Privacy policy: see `docs/index.html` (published via GitHub Pages)
+- Privacy policy: [English / Русский](https://b1cipher.github.io/extra-id/)
 - Source: `src/` (shared by both browsers)
 - Manifests: `manifests/manifest.chrome.json`, `manifests/manifest.firefox.json`
 
